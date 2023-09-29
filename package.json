@@ -1,0 +1,24 @@
+{
+  "name": "html-server",
+  "version": "1.0.0",
+  "description": "A simple server that returns HTML, primarily to test HTMX. Inspired from JSON server by typicode.  \r I'm still working on the how-to's, and learning node. It might be a while before this comes to life.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashdeshpande/html-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashdeshpande/html-server/issues"
+  },
+  "homepage": "https://github.com/akashdeshpande/html-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
